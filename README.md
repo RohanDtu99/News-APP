@@ -86,15 +86,15 @@ You need to create a [News API](https://newsapi.org/) key and add it to the stri
     <th>Example 2</th>
   </tr>
   <tr>
-    <td><img src="screenshots/1.gif"/></td>
-    <td><img src="screenshots/2.jpg"/></td>
+    <td><img src="screenshots/1.jpeg"/></td>
+    <td><img src="screenshots/2.jpeg"/></td>
   </tr>
   <tr>
     <th>Example 3</th>
     <th>Example 4</th>
   </tr>
   <tr>
-    <td><img src="screenshots/3.jpg"/></td>
+    <td><img src="screenshots/3.jpeg"/></td>
   </tr>
 </table>
 
